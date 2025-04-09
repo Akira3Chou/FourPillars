@@ -1,20 +1,19 @@
 ﻿namespace FourPillars.Enums
 {
     /// <summary>
-    /// 阴阳
+    /// 性别
     /// </summary>
-    public enum YinYang : byte
+    public enum Gender : byte
     {
         /// <summary>
-        /// 阴
+        /// 男
         /// </summary>
-        Yin = 0,
+        Male,
 
         /// <summary>
-        /// 阳
+        /// 女
         /// </summary>
-        Yang = 1
+        Female,
 
     }
-
 }
