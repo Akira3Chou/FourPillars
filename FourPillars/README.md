@@ -24,4 +24,4 @@ A modern .NET base library for traditional Chinese Four Pillars (Bazi) calculati
 The library will be available via NuGet when the first stable version is released:
 
 ```bash
-dotnet add package FourPillars.Core
+dotnet add package FourPillars
