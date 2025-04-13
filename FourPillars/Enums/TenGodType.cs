@@ -6,6 +6,11 @@
 public enum TenGodType : byte
 {
     /// <summary>
+    /// 无
+    /// </summary>
+    None,
+
+    /// <summary>
     /// 正印
     /// </summary>
     DirectResource,

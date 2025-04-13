@@ -1,23 +1,23 @@
 ﻿namespace FourPillars.Enums;
 
 /// <summary>
-/// 性别
+/// 脏腑
 /// </summary>
-public enum GenderType : byte
+public enum ZangFuType
 {
     /// <summary>
-    /// 男
+    /// 未指定
     /// </summary>
-    Male,
+    None,
 
     /// <summary>
-    /// 女
+    /// 脏
     /// </summary>
-    Female,
+    Zang,
 
     /// <summary>
-    /// 未知
+    /// 腑
     /// </summary>
-    Unknown,
+    Fu,
 
 }

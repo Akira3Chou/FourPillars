@@ -13,6 +13,11 @@ public enum YinYangType : byte
     /// <summary>
     /// 阳
     /// </summary>
-    Yang = 1
+    Yang = 1,
+
+    /// <summary>
+    /// 未知
+    /// </summary>
+    Unknown,
 
 }

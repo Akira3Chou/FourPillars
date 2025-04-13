@@ -6,9 +6,14 @@
 public enum CelestialStemType : byte
 {
     /// <summary>
+    /// 无
+    /// </summary>
+    None,
+
+    /// <summary>
     /// 甲
     /// </summary>
-    Jia = 1,
+    Jia,
 
     /// <summary>
     /// 乙

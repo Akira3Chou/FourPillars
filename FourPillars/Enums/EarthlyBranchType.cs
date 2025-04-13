@@ -6,9 +6,14 @@
 public enum EarthlyBranchType : byte
 {
     /// <summary>
+    /// 无
+    /// </summary>
+    None,
+
+    /// <summary>
     /// 子
     /// </summary>
-    Zi = 1,
+    Zi,
 
     /// <summary>
     /// 丑

@@ -6,9 +6,14 @@
 public enum FivePhasesType : byte
 {
     /// <summary>
+    /// 无
+    /// </summary>
+    None,
+
+    /// <summary>
     /// 木
     /// </summary>
-    Wood = 1,
+    Wood,
 
     /// <summary>
     /// 火
